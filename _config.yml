@@ -1,9 +1,9 @@
 # Site settings
-title: Sheldor Blog11
+title: Sheldor Blog
 SEOTitle: Sheldor Blog
 header-img: img/post-bg-desk.jpg
 email: sheldor_qu@163.com
-description: "Every failure is leading towards success."
+description: "千里之行 始于足下"
 keyword: "Sheldor的博客, sheldor, 渠淼, qumiao"
 url: "http://sheldormhh.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
